@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm R Pavani Naidu</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="[freak.gif](https://camo.githubusercontent.com/599a3995cddf9a112fe19230a0c41ca7d837031e93bba4623b63d09268cd5df0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)" align="right" width="500" height="350" />
+<img src= "https://camo.githubusercontent.com/599a3995cddf9a112fe19230a0c41ca7d837031e93bba4623b63d09268cd5df0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)" align="right" width="500" height="350" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpavani-sunshine&label=Profile%20views&color=0e75b6&style=flat" alt="rpavani-sunshine" /> </p>
 
 
