@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm R Pavani</h1>
+<h1 align="center">Hi 👋, I'm R Pavani Naidu</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" width="500" height="350" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpavani-sunshine&label=Profile%20views&color=0e75b6&style=flat" alt="rpavani-sunshine" /> </p>
 
 
-- 🌱 I’m Junior Software Developer
+- 🌱 I’m Software Developer
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **pavaninaidu.rongali@gmail.com**
+- 📫 How to reach me **pavani.nr39@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10tuGvw_JhdFw0dOfgC-nsMus_5FSYXn1/view?usp=sharing](https://drive.google.com/file/d/10tuGvw_JhdFw0dOfgC-nsMus_5FSYXn1/view?usp=sharing)
 
