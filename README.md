@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 Currently learning **Advanced MERN Stack & System Design**
 - 💡 Passionate about building **full-stack scalable applications**
 - 👨‍💻 All of my projects are available on my **GitHub**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **pavani.nr39@gmail.com**
 - 📄 Resume: [Click Here](https://your-resume-link.com)
 
 ---
