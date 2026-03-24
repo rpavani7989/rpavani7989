@@ -16,17 +16,17 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 💡 Passionate about building **full-stack scalable applications**
 - 👨‍💻 All of my projects are available on my **GitHub**
 - 📫 Reach me at: **pavani.nr39@gmail.com**
-- 📄 Resume: [Click Here](https://your-resume-link.com)
+- 📄 Resume: [Click Here](https://drive.google.com/file/d/1qwTnP86gPT99bZr5ME5Z1DZEttg4axpN/view?usp=sharing)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/rpavani-sunshine/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/your-leetcode" target="blank">
+  <a href="https://leetcode.com/u/r_pavani/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" />
   </a>
 </p>
