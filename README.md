@@ -26,8 +26,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <a href="https://www.linkedin.com/in/rpavani-sunshine/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/r_pavani/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" style="background-color:white; border-radius:5px; padding:5px;"/>
+  <a href="https://leetcode.com/u/r_pavani/" target="blank" style="background-color:white; border-radius:5px; padding:5px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40"/>
   </a>
 </p>
 
